@@ -1,1 +1,1 @@
-# Statisdtics_Colab_Notebooks
+# Statistics_Colab_Notebooks
